@@ -1,0 +1,2 @@
+# Keep every vendored byte identical to the published npm tarball (no EOL normalization).
+* -text

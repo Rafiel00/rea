@@ -1,0 +1,4 @@
+# Vendored copy of the published rea-agents package (see ../../.claude-plugin/marketplace.json).
+# The repo-root .gitignore excludes dist/, build/, node_modules and .vscode/; this plugin ships
+# them on purpose, so re-include everything below this directory.
+!*
